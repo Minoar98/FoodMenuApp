@@ -1,5 +1,4 @@
 const SingleMenu = ({ title, price, desc, img }) => {
-  console.log("img:-----", img);
   return (
     <article
       className="
