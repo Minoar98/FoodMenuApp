@@ -1,5 +1,7 @@
 ## 🍽️ Food Menu App
 
+![Food Menu App](./src/assets/img/foodapp.png)
+
 A responsive React.js [FoodMenuApp](https://foodmenuappreact.netlify.app) to display food items by category, like Breakfast, Lunch, Shakes, etc. Built with Tailwind CSS and deployed on Netlify.
 
 ---
